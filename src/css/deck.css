@@ -1,0 +1,24 @@
+.deck {
+    margin-left: 10%;
+    margin-top: 10%;
+    position: relative;
+}
+
+.actions {
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 10px;
+}
+
+button {
+    position: absolute;
+    height: 30px;
+    min-width: 100px;
+}
+
+.draw-cards-button {
+}
+
+.reset-button {
+    margin-left: 120px;
+}

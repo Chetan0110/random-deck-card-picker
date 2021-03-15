@@ -1,0 +1,30 @@
+.close-card {
+    width: 200px;
+    border: 1px solid black;
+    position: absolute;
+}
+
+.open-card {
+    height: 300px;
+    width: 200px;
+    border: 1px solid black;
+    position: absolute;
+    margin-left: 400px;
+    background-color: white;
+    border-radius: 10px; 
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.small-suit-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.big-suit-icon {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: auto;
+    margin-top: 40%;
+}

@@ -1,0 +1,11 @@
+.main {
+    width: 50%;
+    margin-left: 25%;
+    border: 1px solid black;
+    min-height: 800px;
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
+}
